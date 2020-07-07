@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/progress_bar" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
